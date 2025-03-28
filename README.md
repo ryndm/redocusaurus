@@ -2,6 +2,8 @@
 
 # Commit 1
 
+# Commit 2
+
 [![npm](https://img.shields.io/npm/v/redocusaurus)](https://www.npmjs.com/package/redocusaurus/)
 ![npm](https://img.shields.io/npm/dw/redocusaurus)
 ![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/npm/redocusaurus)
